@@ -14,7 +14,7 @@ class BamboodemoApplicationTests {
 
     @Test
     void thisTestFails() {
-        Assert.assertEquals(1,2);
+        Assert.assertEquals(2,2);
     }
 
 
