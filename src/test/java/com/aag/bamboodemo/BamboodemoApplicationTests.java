@@ -9,7 +9,7 @@ class BamboodemoApplicationTests {
 
     @Test
     void thisTestPasses() {
-        Assert.assertEquals(1,1);
+        Assert.assertEquals(2,2);
     }
 
     @Test
